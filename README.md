@@ -1,3 +1,17 @@
+## how to use
+
+clone the repository and run the following command:
+
+git clone https://github.com/Shaikhfaruk/kawaspace.git
+
+cd kawaspace
+
+npm install
+
+# start the server
+
+npm start
+
 ## Used packeges
 
 # Axios
